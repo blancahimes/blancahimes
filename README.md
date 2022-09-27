@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👩‍💻 I'm probably working on a grant or a paper instead of programming
+- 🤩 I enjoy reading through the repos that students and trainees have created
+- 📫 You can try to reach me on twitter, but I am usually not there more than once per week
+- 🇨🇴 Si prefieres, puedes hablarme en español
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like rocks 
