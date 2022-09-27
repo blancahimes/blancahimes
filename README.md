@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 - 👩‍💻 I'm probably working on a grant or a paper instead of programming
+- 🖥️ When I do program, I use `R` or `Python`
 - 🤩 I enjoy reading through the repos that students and trainees have created
 - 📫 You can try to reach me on twitter, but I am usually not there more than once per week
 - 🇨🇴 Si prefieres, puedes hablarme en español
